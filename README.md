@@ -1,16 +1,19 @@
-### Hi there 👋
+[linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=585858&logo=linkedin
+[email]: https://img.shields.io/static/v1?label=&message=Email&&color=585858&logo=gmail
 
-<!--
-**akiradeveloper/akiradeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Akira Hayakawa.
+I live in Tokyo.
 
-Here are some ideas to get you started:
+- Interests
+  - Systems programming (Kernel, Storage, Distributed System)
+  - Powerlifting (My PR in benchpress is 130kg)
+  - Gaming (Racing, FPS)
+  - Speedcubing
+  - Go
+- Projects
+  - [dm-writeboost](https://github.com/akiradeveloper/dm-writeboost): Block-level caching in Linux kernel.
+  - [lol](https://github.com/akiradeveloper/lol): Raft implementation in Rust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![email]](mailto:ruby.wktk@gmail.com)
+[![linkedin]](https://www.linkedin.com/in/akira-hayakawa-273a7373/)
