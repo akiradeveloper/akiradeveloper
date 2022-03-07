@@ -4,6 +4,9 @@
 My name is Akira Hayakawa.
 I live in Tokyo.
 
+[![email]](mailto:ruby.wktk@gmail.com)
+[![linkedin]](https://www.linkedin.com/in/akira-hayakawa-273a7373/)
+
 - Interests
   - Systems programming (Kernel, Storage, Distributed System)
   - Powerlifting (My PR in benchpress is 130kg)
@@ -15,5 +18,6 @@ I live in Tokyo.
   - [lol](https://github.com/akiradeveloper/lol): Raft implementation in Rust.
 
 
-[![email]](mailto:ruby.wktk@gmail.com)
-[![linkedin]](https://www.linkedin.com/in/akira-hayakawa-273a7373/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akiradeveloper&show_icons=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=akiradeveloper)](https://github.com/ryo-ma/github-profile-trophy)
