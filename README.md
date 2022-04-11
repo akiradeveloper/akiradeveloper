@@ -13,10 +13,11 @@ I live in Tokyo.
   - Gaming (Racing, FPS)
   - Speedcubing
   - Go
+  - Hercule Poirot
 - Projects
   - [dm-writeboost](https://github.com/akiradeveloper/dm-writeboost): Block-level caching in Linux kernel.
   - [lol](https://github.com/akiradeveloper/lol): Raft implementation in Rust.
-
+  - [sorock](https://github.com/akiradeveloper/sorock)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akiradeveloper&show_icons=true)
 
