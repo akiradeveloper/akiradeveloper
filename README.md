@@ -8,12 +8,11 @@ I live in Tokyo.
 [![linkedin]](https://www.linkedin.com/in/akira-hayakawa-273a7373/)
 
 - Interests
-  - Systems programming (Kernel, Storage, Distributed System)
-  - Powerlifting (My PR in benchpress is 130kg)
-  - Gaming (Racing, FPS)
+  - Systems programming
+  - Crypto Currency
+  - Powerlifting
+  - Gaming
   - Speedcubing
-  - Go
-  - Hercule Poirot
 - Projects
   - [dm-writeboost](https://github.com/akiradeveloper/dm-writeboost): Block-level caching in Linux kernel.
   - [lol](https://github.com/akiradeveloper/lol): Raft implementation in Rust.
