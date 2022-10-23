@@ -8,9 +8,9 @@ I live in Tokyo.
 [![linkedin]](https://www.linkedin.com/in/akira-hayakawa-273a7373/)
 
 - Interests
-  - Systems programming
-  - Crypto Currency
-  - Powerlifting
+  - Systems programming (Storage, Distributed systems)
+  - Crypto Currency　(I have 70K XRP)
+  - Powerlifting (BP Max 130KG)
   - Gaming
   - Speedcubing
 - Projects
