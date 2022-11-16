@@ -9,7 +9,7 @@ I live in Tokyo.
 
 - Interests
   - Systems programming (Storage, Distributed systems)
-  - Crypto Currency (I have ９0K XRP)
+  - Crypto Currency (I have 90K XRP)
   - Powerlifting (BP Max 130KG)
   - Gaming
   - Speedcubing
