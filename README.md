@@ -9,14 +9,14 @@ I live in Tokyo.
 
 - Interests
   - Systems programming (Storage, Distributed systems)
-  - Crypto Currency (I have 90K XRP)
-  - Powerlifting (BP Max 130KG)
+  - Crypto Currency
+  - Powerlifting (Benchpress PR130KG)
   - Gaming
   - Speedcubing
+  - Go
 - Projects
   - [dm-writeboost](https://github.com/akiradeveloper/dm-writeboost): Block-level caching in Linux kernel.
   - [lol](https://github.com/akiradeveloper/lol): Raft implementation in Rust.
-  - [sorock](https://github.com/akiradeveloper/sorock): Erasure-coded distributed storage.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akiradeveloper&show_icons=true)
 
