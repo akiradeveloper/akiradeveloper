@@ -9,14 +9,14 @@ I live in Yokohama, Japan.
 
 - Interests
   - Systems programming (Storage, Distributed systems)
-  - Crypto Currency
   - Powerlifting (Benchpress PR130KG)
   - Gaming
   - Speedcubing
   - Go
+  
 - Projects
   - [dm-writeboost](https://github.com/akiradeveloper/dm-writeboost): Block-level caching in Linux kernel.
-  - [lolraft](https://github.com/akiradeveloper/lolraft): Raft implementation in Rust.
+  - [sorock](https://github.com/akiradeveloper/sorock): Multi-Raft implementation in Rust.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akiradeveloper&show_icons=true)
 
